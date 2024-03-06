@@ -120,11 +120,11 @@ image:
       "id": 5
     }
   ]
-}
+};
 
-  function getMarkerColor(type) {
-    return type === 'tx' ? 'red' : 'green';
-  }
+function getMarkerColor(type) {
+  return type === 'tx' ? 'red' : 'green';
+};
 
   L.geoJSON(macs, {
     pointToLayer: function(feature,latlng) {
