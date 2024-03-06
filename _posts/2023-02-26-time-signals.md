@@ -3,7 +3,7 @@ title: Standard Time and Frequency Transmissions
 date: 2024-02-26 15:00:00 -0600
 # last_modified_at: 
 categories: [Amateur Radio]
-tags: [amateur radiol]
+tags: [amateur radio]
 # image:
 #   path: /assets/img/manitoba-aviation-frequencies.png
 ---
