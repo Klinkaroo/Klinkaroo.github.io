@@ -22,8 +22,8 @@ image:
 
 <script>
   var map = L.map('map').setView([49.7713, -96.8165], 3);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  L.tileLayer('https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer/Tile/{z}/{y}/{x}.png', {
+    attribution: 'Map data &copy; Esri, HERE, Garmin, © OpenStreetMap contributors, and the GIS User Community'
   }).addTo(map);
 
   var macs = {
