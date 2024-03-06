@@ -121,8 +121,30 @@ image:
     }
   ]
 }
-  L.geoJSON(macs).addTo(map)
 
+  function getMarkerColor(type) {
+    return type === 'tx' ? 'red' : 'green';
+  }
+
+  L.geoJSON(macs, {
+    pointToLayer: function(feature,latlng) {
+      var markerColor = getMarkerColor(feature.properties.type);
+      var markerIcon = L.icon({
+        iconUrl: '/assets/leaflet/markers/antenna-' + markerColor + '.png',
+        iconSize: [25,25],
+        iconAnchor: [12,31],
+        popupAnchor: [1,-34],
+        shadowSize: [41,41]
+      });
+      return L.marker(latlng, {icon: markerIcon});
+    },
+    onEachFeature: function(feature, layer) {
+      if (feature.properties.name) {
+        var popupContent = feature.properties.name;
+        layer.bindPopup(popupContent);
+      }
+    }
+  }).addTo(map);
 </script>
 
 # MACS Frequencies
