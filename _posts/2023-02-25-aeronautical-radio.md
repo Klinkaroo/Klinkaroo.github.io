@@ -16,6 +16,7 @@ This is my little guide to Canadian aviation.
 | ATIS | Automatic Terminal Information Service | A continuous broadcast of recorded aeronautical information in busy airports, providing pilots with vital details such as weather conditions, runways in use, and other operational information.
 
 ## Flight Advisory
+
 | Abbr. | Facility | Purpose |
 | :-    | :-       | :-      |
 | RCO   | Remote Communications Outlet | A remote radio facility used by pilots to communicate with air traffic control over long distances, especially in areas where direct communication is not possible. |
