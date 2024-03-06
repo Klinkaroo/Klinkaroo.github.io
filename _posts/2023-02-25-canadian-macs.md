@@ -19,6 +19,15 @@ image:
 |          | TX   | Great Village  | 45.42124 | -63.55974  |
 
 <div id="map" style="height: 250px;"></div>
+
+<script>
+  var map = L.map('map').setView([51.505, -0.09], 13);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+</script>
+
+<!--
 <script>
   var map = L.map('map').setView([49.7713, -96.8165], 3);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -145,6 +154,7 @@ image:
     }
   }).addTo(map);
 </script>
+-->
 
 # MACS Frequencies
 
