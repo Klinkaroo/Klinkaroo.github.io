@@ -2,7 +2,7 @@
 title: Aviation Frequencies - Manitoba Airports
 date: 2024-02-25 15:00:00 -0600
 # last_modified_at: 
-categories: [Aviation, air traffic control]
+categories: [Aviation, Air Traffic Control]
 tags: [aviation, radio, air traffic control]
 image:
   path: /assets/img/manitoba-aviation-frequencies.png
