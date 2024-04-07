@@ -151,7 +151,6 @@ function getMarkerColor(type) {
       }
     }
   }).addTo(map);
-
 </script>
 
 # MACS Frequencies
