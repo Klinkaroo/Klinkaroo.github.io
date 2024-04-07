@@ -21,11 +21,15 @@ image:
 <div id="map" style="height: 250px;"></div>
 
 <script>
+  // Initialize the map  
   var map = L.map('map').setView([49.7713, -96.8165], 3);
+  
+  // Add the tile layer
   L.tileLayer('https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer/Tile/{z}/{y}/{x}.png', {
     attribution: 'Map data &copy; Esri, HERE, Garmin, © OpenStreetMap contributors, and the GIS User Community'
   }).addTo(map);
 
+  // Point Layer
   var macs = {
   "type": "FeatureCollection",
   "features": [
@@ -122,10 +126,12 @@ image:
   ]
 };
 
+// Function to determine marker colour
 function getMarkerColor(type) {
   return type === 'tx' ? 'red' : 'green';
 };
 
+// Add custom markers
   L.geoJSON(macs, {
     pointToLayer: function(feature,latlng) {
       var markerColor = getMarkerColor(feature.properties.type);
@@ -145,6 +151,7 @@ function getMarkerColor(type) {
       }
     }
   }).addTo(map);
+
 </script>
 
 # MACS Frequencies
