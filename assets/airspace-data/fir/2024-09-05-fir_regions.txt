@@ -1,0 +1,205 @@
+# Vancouver Flight Information Region
+The airspace within the area bounded by a line beginning at:
+    49.000483,-115.499953   thence westerly along the Can/USA bdry \ to
+    48.493444,-124.727250   to
+    48.500000,-125.000000   to
+    48.333333,-128.000000   to
+    51.000000,-133.750000   to
+    54.000000,-136.000000   to
+    54.216667,-134.950000   to
+    54.662222,-132.684167   thence along the Can/AK bdry \ to
+    56.999989,-132.065986   to
+    56.000000,-123.250000   to
+    53.400000,-119.000000   to
+    50.326406,-116.084222   thence clockwise along the arc of a circle of
+    25 miles                radius centred on
+    49.955000,-115.792222   (Skookum, BC - NDB) \ to
+    49.962514,-115.147114   to
+    49.500000,-115.137500   to
+    49.000483,-115.499953   point of beginning.
+
+# Edmonton Flight Information Region
+The airspace within the area bounded by a line beginning at:
+    48.999614,-110.000000   thence westerly along the Can/USA bdry \ to
+    49.000483,-115.499953   to
+    49.500000,-115.137500   to
+    49.962514,-115.147114   thence counter-clockwise along the arc of a circle of
+    25 miles                radius centred on
+    49.955000,-115.792222   (Skookum, BC - NDB) \ to
+    50.326406,-116.084222   to
+    53.400000,-119.000000   to
+    56.000000,-123.250000   to
+    56.999989,-132.065986   thence northerly along the Can/AK bdry \ to
+    69.646614,-141.000592   thence northerly along longitude -141.000000 \ to
+    90.000000,-141.000000   Geographical North Pole \ to
+    82.000000,-60.0000000   to
+    78.000000,-075.000000   to
+    76.000000,-076.000000   to
+    65.000000,-057.750000   to
+    65.000000,-060.000000   to
+    65.000000,-068.000000   to
+    62.750000,-080.000000   to
+    64.408333,-080.000000   to
+    54.766667,-108.416667   to
+    54.766667,-108.694444   thence clockwise along the arc of a circle of
+    60 miles                radius centred on
+    54.408611,-110.295833   (cold Lake, AB - TACAN) \ to
+    53.420833,-110.000000   to
+    48.999614,-110.000000   point of beginning.
+
+# Winnipeg Flight Information Region
+The airspace within the area bounded by a line beginning at:
+    47.775358,-087.000000   thence westerly along the Can/USA bdry \ to
+    48.999614,-110.000000   to
+    53.420833,-110.000000   thence counter-clockwise along the arc of a circle of
+    60 miles                radius centred on
+    54.408611,-110.295833   (Cold Lake, AB - TACAN)\ to
+    54.766667,-108.694444   to
+    54.766667,-108.416667   to
+    64.408333,-080.000000   to
+    53.466667,-080.000000   to
+    52.000000,-083.141667   to
+    50.000000,-086.266667   to
+    49.533333,-087.000000   to
+    47.775358,-087.000000   point of beginning.
+
+# Toronto Flight Information Region
+The airspace within the area bounded by a line beginning at:
+    44.221417,-076.191722   Can/USA bdry \ thence westerly along the Can/USA bdry \ to
+    47.775358,-087.000000   to
+    49.533333,-087.000000   to
+    50.000000,-086.266667   to
+    52.000000,-083.141667   to
+    53.466667,-080.000000   to
+    49.000000,-079.000000   to
+    48.587047,-079.000000   thence counter-clockwise along the arc of a circle of
+    25 miles                radius centred on
+    48.172900,-078.938583   (rouyn, QC - NDB) \ to
+    47.840064,-078.565706   to
+    47.554258,-078.117569   to
+    47.111103,-077.545864   to
+    46.946881,-077.250000   to
+    46.133333,-077.250000   to
+    45.961111,-076.927778   to
+    45.837500,-076.266667   to
+    44.221417,-076.191722   Can/USA bdry \ point of beginning.
+
+# Montreal Flight Information Region
+The airspace within the area bounded by a line beginning at:
+    47.459833,-069.224444   Can/USA bdry \ thence westerly along the Can/USA bdry \ to
+    44.221417,-076.191722   to
+    45.837500,-076.266667   to
+    45.961111,-076.927778   to
+    46.133333,-077.250000   to
+    46.946881,-077.250000   to
+    47.111103,-077.545864   to
+    47.554258,-078.117569   to
+    47.840064,-078.565706   thence clockwise along the arc of a circle of
+    25 miles                radius centred on
+    48.172900,-078.938583   (Rouyn, QC - NDB) \ to
+    48.587047,-079.000000   to
+    49.000000,-079.000000   to
+    53.466667,-080.000000   to
+    62.750000,-080.000000   to
+    65.000000,-068.000000   thence easterly along latitude 65.000000 \ to
+    65.000000,-060.000000   to
+    64.000000,-063.000000   to
+    61.000000,-063.000000   to
+    58.471111,-060.351111   to
+    57.550000,-064.000000   thence southerly along longitude 064.000000 \ to
+    55.355556,-064.000000   to
+    55.083333,-065.083333   to
+    54.416667,-065.333333   to
+    53.700000,-064.916667   to
+    51.416667,-064.000000   to
+    50.833333,-062.083333   to
+    50.833333,-060.000000   to
+    51.333333,-059.500000   to
+    51.633333,-059.500000   to
+    52.196389,-058.142778   to
+    51.735000,-057.000000   thence southerly along longitude 057.000000 \ to
+    51.283333,-057.000000   to
+    51.000000,-058.000000   to
+    49.533333,-061.000000   thence southerly along longitude 061.000000 \ to
+    49.300000,-061.000000   to
+    48.500000,-062.000000   to
+    47.848333,-064.622222   to
+    48.000000,-065.941111   thence counter-clockwise along the arc of a circle of
+    20 miles                radius centred on
+    48.008889,-066.436944   to
+    47.883333,-066.896667   to
+    47.733333,-067.950000   to
+    47.525100,-068.000042   thence counter-clockwise along the arc of a circle of
+    34.759 miles            radius centred on
+    46.951389,-067.886111   to
+    47.287519,-068.576500   thence westerly along the Can/USA bdry \ to
+    47.459833,-069.224444   Can/USA bdry \ point of beginning.
+
+# Moncton Flight Information Region
+The airspace within the area bounded by a line beginning at:
+    44.446667,-056.051667   to
+    43.600000,-060.000000   to
+    41.866667,-067.000000   to
+    44.500000,-067.000000   to
+    44.500000,-067.116667   to
+    44.776556,-066.902556   thence northerly along the Can/USA bdry \ to
+    47.287519,-068.576500   thence clockwise along the arc of a circle of
+    34.759 miles            radius centred on
+    46.951389,-067.886111   to
+    47.525100,-068.000042   to
+    47.733333,-067.950000   to
+    47.883333,-066.896667   thence clockwise along the arc of a circle of
+    20 miles                radius centred on
+    48.008889,-066.436944   to
+    48.000000,-065.941111   to
+    47.848333,-064.622222   to
+    48.500000,-062.000000   to
+    45.611944,-056.473611   to
+    44.446667,-056.051667   point of beginning.
+
+# Gander Domestic Flight Information Region
+The airspace within the area bounded by a line beginning at:
+    45.000000,-051.000000   to
+    45.000000,-053.000000   to
+    44.446667,-056.051667   to
+    45.611944,-056.473611   to
+    48.500000,-062.000000   to
+    49.300000,-061.000000   thence northerly along longitude 061.000000 \ to
+    49.533333,-061.000000   to
+    51.000000,-058.000000   to
+    51.283333,-057.000000   thence northerly along longitude 057.000000 \ to
+    51.735000,-057.000000   to
+    52.196389,-058.142778   to
+    51.633333,-059.500000   to
+    51.333333,-059.500000   to
+    50.833333,-060.000000   to
+    50.833333,-062.083333   to
+    51.416667,-064.000000   to
+    53.700000,-064.916667   to
+    54.416667,-065.333333   to
+    55.083333,-065.083333   to
+    55.355556,-064.000000   thence northerly along longitude 064.000000 \ to
+    57.550000,-064.000000   to
+    58.471111,-060.351111   to
+    57.000000,-059.000000   to
+    53.000000,-054.000000   to
+    49.000000,-051.000000   to
+    45.000000,-051.000000   point of beginning.
+
+# Gander Oceanic Flight Information Region
+The airspace within the area bounded by a line beginning at:
+    45.000000,-030.000000   thence westerly along latitude 45.000000 \ to
+    45.000000,-051.000000   to
+    49.000000,-051.000000   to
+    53.000000,-054.000000   to
+    57.000000,-059.000000   to
+    58.471111,-060.351111   to
+    61.000000,-063.000000   to
+    64.000000,-063.000000   to
+    65.000000,-060.000000   to
+    65.000000,-057.750000   to
+    58.500000,-050.000000   thence easterly along latitude 58.500000 \ to
+    58.500000,-043.000000   to
+    63.500000,-039.000000   to
+    61.000000,-030.000000   to
+    45.000000,-030.000000   point of begining.
