@@ -6,7 +6,7 @@ order: 6
 - [Shapefile](/assets/airspace-data/fir/2024-09-05-fir.zip)
 - [GeoPackage](/assets/airspace-data/fir/2024-09-05-fir.gpkg)
 - [GeoJSON](/assets/airspace-data/fir/2024-09-05-fir.geojson)
-- [Coordinates (Decimal Format)](/assets/airspace-data/fir/)
+- [Coordinates (Decimal Format)](/assets/airspace-data/fir/2024-09-05-fir_regions.txt)
 
 ## North American ADIZ
 Coming Soon
