@@ -9,7 +9,10 @@ order: 6
 - [Coordinates (Decimal Format)](/assets/airspace-data/fir/2024-09-05-fir_regions.txt)
 
 ## North American ADIZ
-Coming Soon
+- [Shapefile](/assets/airspace-data/fir/2024-09-05-adiz.zip)
+- [GeoPackage](/assets/airspace-data/fir/2024-09-05-adiz.gpkg)
+- [GeoJSON](/assets/airspace-data/fir/2024-09-05-adiz.geojson)
+- [Coordinates (Decimal Format)](/assets/airspace-data/fir/2024-09-05-adiz.txt)
 
 ## Canadian Military Operation Areas (MOA)
 Coming Soon
