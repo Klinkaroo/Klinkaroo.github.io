@@ -2,7 +2,7 @@
 icon: fas fa-globe
 order: 6
 ---
-## [Canadian Flight Information Regions](/Airspace-Data/fir)
+## Canadian Flight Information Regions
 - [Shapefile](/assets/airspace-data/fir/2024-09-05-fir.zip)
 - [GeoPackage](/assets/airspace-data/fir/2024-09-05-fir.gpkg)
 - [GeoJSON](/assets/airspace-data/fir/2024-09-05-fir.geojson)
