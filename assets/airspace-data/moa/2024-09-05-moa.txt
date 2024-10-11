@@ -1,0 +1,108 @@
+# Military Operations area
+
+## Algonquin MOA 
+
+All airspace within the area bounded by a line beginning at:
+    44.733333,-078.050000   to
+    44.966667,-078.166667   to
+    45.333333,-078.500000   to
+    47.000000,-078.500000   thence easterly along latitude N47°00'00.00" \ to
+    47.000000,-077.666667   to
+    46.900000,-077.500000   to
+    46.500000,-077.500000   to
+    46.200000,-077.733333   to
+    46.067233,-077.401431   thence counter-clockwise along the arc of a circle of
+    2.5 miles               radius centred on
+    46.033333,-077.366667   to
+    46.018333,-077.422500   to
+    46.006389,-077.469722   to
+    46.011111,-077.502778   to
+    45.979167,-077.616667   to
+    45.840278,-077.537778   to
+    45.791667,-077.733333   to
+    45.583333,-077.733333   to
+    45.300000,-076.916667   to
+    45.116667,-077.000000   to
+    44.950000,-077.466667   to
+    44.397203,-077.114958   to
+    44.284444,-077.612778   to
+    44.238297,-077.749656   to
+    44.733333,-078.050000   the point of beginning.
+Altitude: Surface to 6000 feet
+Time of Designation: Cont 13-05Z (DT 12-04Z), O/T by NOTAM
+User Agency: Trenton Military Terminal Control
+
+## Elk MOA
+
+All airspace within the area bounded byt a line beginning at:
+    43.000000,-066.000000   thence easterly along latitude N43°00'00.00" \ to
+    43.000000,-065.000000   to
+    44.500000,-060.000000   to
+    45.500000,-059.000000   thence easterly along latitude N45°30'00.00" \ to
+    45.500000,-056.000000   to
+    46.333333,-054.000000   thence easterly along latitude N46°20'00.00" \ to
+    46.333333,-051.000000   to
+    48.400000,-051.000000   to
+    58.500000,-060.333333   thence easterly along latitude N58°30'00.00" \ to
+    58.500000,-041.500000   to
+    52.000000,-032.000000   to
+    40.000000,-046.000000   thence westerly along latitude N40°00'00.00" \ to
+    40.000000,-066.000000   to
+    43.000000,-066.000000   point of beginning.
+Altitude: Surface to FL050
+Time of Designation: Cont
+User Agency: RJOC (Atlantic)
+
+## Shearwater MOA
+
+### Shearwater Dip Sector 1
+
+The airspace within the area bounded by a line beginning at:
+    44.632608,-063.149858   to
+    44.631000,-062.799775   thence clockwise along the arc of a circle of
+    30 miles                radius centred on
+    44.633147,-063.499956   (Shearwater, NS - TACAN) \ to
+    44.381550,-062.896161   to
+    44.507750,-063.197411   then counter-clockwise along the arc of a circle of
+    15 miles                radius centred on
+    44.633147,-063.499956   (Shearwater, NS - TACAN) \ to
+    44.632608,-063.149858   point of beginning.
+
+### Shearwater Dip Sector 2
+
+The airspace within the area bounded by a line beginning at:
+    44.472139,-063.232503   to
+    44.310506,-062.966517   thence clockwise along the arc of a circle of
+    30 miles                radius centred on
+    44.633147,-063.499956   (Shearwater, NS - TACAN) \ to
+    44.163053,-063.262386   to
+    44.398167,-063.380694   then counter-clockwise along the arc of a circle of
+    15 miles                radius centred on
+    44.633147,-063.499956   (Shearwater, NS - TACAN) \ to
+    44.472139,-063.232503   point of beginning.
+
+### Shearwater Dip Sector 3
+
+The airspace within the area bounded by a line beginning at:
+    44.386933,-063.439417   to
+    44.140678,-063.379383   thence clockwise along the arc of a circle of
+    30 miles                radius centred on
+    44.633147,-063.499956   (Shearwater, NS - TACAN) \ to
+    44.163053,-063.737528   to
+    44.398167,-063.619217   then counter-clockwise along the arc of a circle of
+    15 miles                radius centred on
+    44.633147,-063.499956   (Shearwater, NS - TACAN) \ to
+    44.386933,-063.439417   point of beginning.
+
+### Shearwater Dip Sector 4
+
+The airspace within the area bounded by a line beginning at:
+    44.416511,-063.674358   to
+    44.199603,-063.847478   thence clockwise along the arc of a circle of
+    30 miles                radius centred on
+    44.633147,-063.499956   (Shearwater, NS - TACAN) \ to
+    44.381550,-064.103753   to
+    44.507750,-063.802503   then counter-clockwise along the arc of a circle of
+    15 miles                radius centred on
+    44.633147,-063.499956   (Shearwater, NS - TACAN) \ to
+    44.416511,-063.674358   point of beginning.
