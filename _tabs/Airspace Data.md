@@ -8,7 +8,8 @@ order: 6
 - [GeoJSON](/assets/airspace-data/fir/2024-09-05-fir.geojson)
 - [Coordinates (Decimal Format)](/assets/airspace-data/fir/2024-09-05-fir_regions.txt)
 
-## North American ADIZ
+## North America ADIZ
+The Canadian East, West and North ADIZ.
 - [Shapefile](/assets/airspace-data/fir/2024-09-05-adiz.zip)
 - [GeoPackage](/assets/airspace-data/fir/2024-09-05-adiz.gpkg)
 - [GeoJSON](/assets/airspace-data/fir/2024-09-05-adiz.geojson)
