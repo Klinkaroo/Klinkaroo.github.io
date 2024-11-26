@@ -25,7 +25,7 @@ var highlightStyle = {
 };
 
 // Load the GeoJSON data
-fetch('/assets/airspace-data/fir/2024-09-05-fir-4326.geojson')
+fetch('/assets/airspace-data/fir/2309-fir-4326.geojson')
   .then(response => response.json())
   .then(data => {
     // Add the GeoJSON layer to the map
