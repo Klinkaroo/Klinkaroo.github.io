@@ -4,8 +4,6 @@ date: 2024-02-25 21:00:00 -0600
 # last_modified_at: 
 categories: [Aviation, Military]
 tags: [aviation, radio, air traffic control]
-image:
-  path: /assets/img/macs.png
 ---
 # MACS Locations
 

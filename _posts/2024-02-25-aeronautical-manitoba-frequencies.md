@@ -4,8 +4,6 @@ date: 2024-02-25 15:00:00 -0600
 # last_modified_at: 
 categories: [Aviation, Air Traffic Control]
 tags: [aviation, radio, air traffic control]
-image:
-  path: /assets/img/manitoba-aviation-frequencies.png
 ---
 > Unauthorized use of aeronautical frequencies, critical for flight safety, is illegal and dangerous. These frequencies require a [Restricted Operator Certificate with Aeronautical Qualification from ISED](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/licences-and-certificates/professional-radio-operator-certificates) for legal operation. Aviation band radios are not mandatory. Receive only scanners can safely receive these frequencies without interference, ensuring compliance and safety.
 {: .prompt-danger}
