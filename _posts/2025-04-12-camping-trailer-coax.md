@@ -21,8 +21,8 @@ Here’s a visual map of how the coax and 12V power lines are laid out in my Kod
 ## Rear connections: Starting Point
 
 On the backside of the trailer, near the fresh water hookups, you'll find two coax connectors:
-- Purpple coax - runs directly to a basic interior wall plate
-- Orange coax - feeds into the powered wall plate (Part# RV-074543), which acts as the central switch fro antenna/cable signals.
+- Purple coax - runs directly to a basic interior wall plate
+- Orange coax - feeds into the powered wall plate (Part# RV-074543), which acts as the central switch for antenna/cable signals.
 
 These connections are the primary signal entry into the RV.
 
@@ -32,7 +32,7 @@ These connections are the primary signal entry into the RV.
 
 The purple coax line runs from the exterior coax input straight to an interior wall plate - bypassing any amplifiers or switches. There's no connection to the powered wall plate or antenna system. 
 
-I suspect this line is designed as a clean, direct path for satellite receivers or other singal-sensitive equipment. Satellite systems often require an unamplified, uninterrupted signal from teh dish to the receiver. This dedicated line avoids any potential interference or singal loss that might be introduced by the Winegard's amplifier circuitry or switching logic. 
+I suspect this line is designed as a clean, direct path for satellite receivers or other signal-sensitive equipment. Satellite systems often require an unamplified, uninterrupted signal from teh dish to the receiver. This dedicated line avoids any potential interference or signal loss that might be introduced by the Winegard's amplifier circuitry or switching logic. 
 
 So if you're planning to use a satellite dish or park cable box that doesn't play well with distribution amps, this is likely the port you want to use.
 
@@ -57,7 +57,7 @@ How it works:
 
 ## Outside TV Connection
 
-The white coax from the powered wall plate receives the same signal as the wall plate connection. It leads to the front-side exterior TV mount, located under the awning. This gives you the option to watch OTA or cable TV outside, depending on the wall plate switch setting. 
+The white coax from the powered wall plate mirrors the signal sent to the main interior TV connection, allowing for an outdoor TV setup under the awning. It leads to the front-side exterior TV mount, located under the awning. This gives you the option to watch OTA or cable TV outside, depending on the wall plate switch setting. 
 
 ## Winegard Air 360+ and Gateway 4G Prewire
 
@@ -65,7 +65,7 @@ The roof-mounted Winegard Air 360+ handles your over-the-air (OTA) TV reception 
 
 For that, you need to add the optional Winegard Gateway, which connects to the prewired port under the dome.
 
-Beneath a cover plate on the ceilling of the RV, you'll find:
+Beneath a cover plate on the ceiling of the RV, you'll find:
 - 12V power - supplied from a switch (Part# WP2-100) near the trailer's main control panel
 - Three MCX-terminated coax wires:
   - Red - WiFi
@@ -75,7 +75,7 @@ Beneath a cover plate on the ceilling of the RV, you'll find:
 ![Gateway Pre-wire](/assets/img/2025-04-12-camping-trailer-coax/pre-wire.png)
 
 
-### Why I Don't Recommend the Gatweay
+### Why I Don't Recommend the Gateway
 
 Honestly, I don’t think the Gateway is worth it. It’s pricey, offers limited flexibility, and locks you into Winegard’s ecosystem.
 
