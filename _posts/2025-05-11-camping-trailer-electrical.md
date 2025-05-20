@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RV Inverter and Battery Upgrade"
-date: 2025-05-19
+date: 2025-05-11
 categories: [Camping, RV]
 tags: 
 toc: true
