@@ -74,7 +74,7 @@ Also, **live sports**. CBC carries *Hockey Night in Canada*, and that’s how I 
 | CBWT-DT   | 6.1             | 27.3       | CBC     | 720p       | Richardson Building, Downtown Winnipeg |
 | CKY-DT    | 7.1             | 7.1        | CTV     | 1080i      | Sainte Agathe, South of Winnipeg       |
 | CKND-DT   | 9.1             | 19.1       | Global  | 1080i      | 201 Portage, Downtown Winnipeg         |
-| CKND-2    | 2.1             | 9.1        | Global  | 1080i      | West of Minnedose                      |
+| CKND-2    | 2.1             | 9.1        | Global  | 1080i      | West of Minnedosa                      |
 | CHMI-DT   | 13.1            | 13.2       | CityTV  | 1080i      | South of Elie                          |
 
 ---
